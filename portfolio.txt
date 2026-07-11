@@ -1,0 +1,6 @@
+AZN 5 shares = $850
+GOOGLE 5 shares = $750
+MS 9 shares = $3150
+TSLA 6 shares = $1500
+
+Total Investment = $6250
